@@ -1,0 +1,7 @@
+C:\Users\enzo.glanzi\source\repos\velocidademedia\velocidademedia\bin\Debug\velocidademedia.exe.config
+C:\Users\enzo.glanzi\source\repos\velocidademedia\velocidademedia\bin\Debug\velocidademedia.exe
+C:\Users\enzo.glanzi\source\repos\velocidademedia\velocidademedia\bin\Debug\velocidademedia.pdb
+C:\Users\enzo.glanzi\source\repos\velocidademedia\velocidademedia\obj\Debug\velocidademedia.csproj.AssemblyReference.cache
+C:\Users\enzo.glanzi\source\repos\velocidademedia\velocidademedia\obj\Debug\velocidademedia.csproj.CoreCompileInputs.cache
+C:\Users\enzo.glanzi\source\repos\velocidademedia\velocidademedia\obj\Debug\velocidademedia.exe
+C:\Users\enzo.glanzi\source\repos\velocidademedia\velocidademedia\obj\Debug\velocidademedia.pdb
